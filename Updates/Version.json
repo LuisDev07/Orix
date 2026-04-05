@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/LuisDev07/Orix/releases/download/v1.0.0/Orix.exe",
-  "changelog": "- Orix Aplicacion",
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/LuisDev07/Orix/releases/download/v1.0.1/Orix.exe",
+  "changelog": "\n- Prueba de acualizacion \n = Nuevo elemento agregado picturesbox e label",
   "mandatory": false
 
 }
